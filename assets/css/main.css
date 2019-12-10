@@ -211,3 +211,48 @@
       color:rgb(245, 98, 12);
       font-size:30px;
   }
+
+  #bannerIntern {
+    padding: 10em 0 10em 0;
+    background: url(../images/diary.jpg) ;
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    border-top: 0.5em solid #5385c1;
+    margin-bottom:2em;
+}
+
+.accord{
+    margin:1em;
+    padding:0.5em;
+    background:rgb(253, 212, 157);
+    font-family: Montserrat, sans-serif;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.accord:hover{
+    background:rgb(216, 215, 213);
+}
+
+.intern {
+    padding:0.5em;
+    font-family: Montserrat, sans-serif;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border:1px solid #f6d4b4;
+    margin-bottom:1em;
+}
+
+.buttonIntern{
+    box-sizing: border-box;
+    border:1px solid #f4511e;
+    color:black;
+    border-radius: 10px;
+    background: white;
+    padding:10px;
+    font-family: Montserrat, sans-serif;
+    margin:0.2em;
+}
