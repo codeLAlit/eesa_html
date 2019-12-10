@@ -118,7 +118,6 @@
 
   .jumbotron {
     background-color: #f4511e;
-    opacity: 0.4;
     color: #fff;
     padding: 100px 25px;
     font-family: Montserrat, sans-serif;
@@ -134,4 +133,8 @@
     text-align: center;
     border-top: 0.5em solid #5385c1;
     margin-bottom:2em;
+}
+
+#inside{
+   opacity: 0.4;
 }
