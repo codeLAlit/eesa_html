@@ -138,3 +138,21 @@
 #inside{
    opacity: 0.4;
 }
+
+.person {
+    border: 10px solid transparent;
+    margin-bottom: 25px;
+    width: 40%;
+    height: 40%;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+  }
+  .person:hover {
+    border-color: #f6d4b4;
+  }
+
+  .col-sm-4 img{
+    -webkit-filter: grayscale(90%);
+    filter: grayscale(90%);
+  }
