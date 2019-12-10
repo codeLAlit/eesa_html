@@ -109,3 +109,29 @@
     transition: box-shadow 0.5s;
     color:#f4511e
   }
+
+  footer .glyphicon {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #f4511e;
+  }
+
+  .jumbotron {
+    background-color: #f4511e;
+    opacity: 0.4;
+    color: #fff;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+  }
+
+  #bannerhome {
+    padding: 10em 0 10em 0;
+    background: url(../images/home2.jpg) ;
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    border-top: 0.5em solid #5385c1;
+    margin-bottom:2em;
+}
