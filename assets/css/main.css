@@ -244,6 +244,15 @@
     border-radius: 10px;
     border:1px solid #f6d4b4;
     margin-bottom:1em;
+    width:80%;
+    margin-left:10%;
+}
+
+@media screen and (max-width: 768px){
+  .intern{
+    width:100%;
+    margin-left: 0%;
+  }
 }
 
 .buttonIntern{
